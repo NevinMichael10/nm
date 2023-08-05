@@ -1,3 +1,3 @@
 ## My Personal Website 
 
-### https://nevinmichael.ml/
+### https://nevinmichael10.github.io/nm
